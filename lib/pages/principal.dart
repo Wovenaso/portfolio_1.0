@@ -183,7 +183,7 @@ class _principalPageState extends State<principalPage> {
                         color: Colors.white,
                       ),
                       child: Image.asset(
-                        "logotec.png",
+                        "assets/logotec.png",
                         width: 300,
                         height: 300,
                       ),
@@ -197,7 +197,7 @@ class _principalPageState extends State<principalPage> {
                         color: Colors.white,
                       ),
                       child: Image.asset(
-                        "halcon.png",
+                        "assets/halcon.png",
                         width: 300,
                         height: 300,
                       ),
@@ -399,7 +399,7 @@ class _principalPageState extends State<principalPage> {
                       color: Colors.white,
                     ),
                     child: Image.asset(
-                      "logotec.png",
+                      "assets/logotec.png",
                       width: 300,
                       height: 300,
                     ),
@@ -413,7 +413,7 @@ class _principalPageState extends State<principalPage> {
                       color: Colors.white,
                     ),
                     child: Image.asset(
-                      "halcon.png",
+                      "assets/halcon.png",
                       width: 300,
                       height: 300,
                     ),

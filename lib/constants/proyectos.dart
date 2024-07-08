@@ -7,19 +7,19 @@ List<Map> proyectosLista = [
     "pagina": 0,
     "lenguajes": [
       {
-        "img": "flutter.png",
+        "img": "assets/flutter.png",
         "titulo": "Flutter",
       },
       {
-        "img": "dart_logo.png",
+        "img": "assets/dart_logo.png",
         "titulo": "Dart",
       },
       {
-        "img": "python.png",
+        "img": "assets/python.png",
         "titulo": "Python",
       },
       {
-        "img": "mongodb.png",
+        "img": "assets/mongodb.png",
         "titulo": "MongoDB",
       },
     ]
@@ -32,19 +32,19 @@ List<Map> proyectosLista = [
     "pagina": 1,
     "lenguajes": [
       {
-        "img": "flutter.png",
+        "img": "assets/flutter.png",
         "titulo": "Flutter",
       },
       {
-        "img": "dart_logo.png",
+        "img": "assets/dart_logo.png",
         "titulo": "Dart",
       },
       {
-        "img": "python.png",
+        "img": "assets/python.png",
         "titulo": "Python",
       },
       {
-        "img": "firebase.png",
+        "img": "assets/firebase.png",
         "titulo": "Firebase",
       },
     ]

@@ -2,39 +2,39 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 const List<Map> platformList = [
   {
-    "img": "flutter.png",
+    "img": "assets/flutter.png",
     "titulo": "Flutter",
   },
   {
-    "img": "dart_logo.png",
+    "img": "assets/dart_logo.png",
     "titulo": "Dart",
   },
   {
-    "img": "java.png",
+    "img": "assets/java.png",
     "titulo": "Java",
   },
   {
-    "img": "python.png",
+    "img": "assets/python.png",
     "titulo": "Python",
   },
   {
-    "img": "javascript.png",
+    "img": "assets/javascript.png",
     "titulo": "Javascript",
   },
   {
-    "img": "mongodb.png",
+    "img": "assets/mongodb.png",
     "titulo": "MongoDB",
   },
   {
-    "img": "firebase.png",
+    "img": "assets/firebase.png",
     "titulo": "Firebase",
   },
   {
-    "img": "figma.png",
+    "img": "assets/figma.png",
     "titulo": "Figma",
   },
   {
-    "img": "sqlserver.png",
+    "img": "assets/sqlserver.png",
     "titulo": "SQL",
   }
 

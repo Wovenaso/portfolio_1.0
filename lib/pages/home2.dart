@@ -172,7 +172,7 @@ class _HomePaginaState extends State<HomePagina> {
           },
           child: Padding(
             padding: const EdgeInsets.all(10.0),
-            child: Image.asset('logoprincipal.png'),
+            child: Image.asset('assets/logoprincipal.png'),
           )),
     );
   }
