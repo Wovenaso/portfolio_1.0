@@ -3,6 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:portfolio/config/global.dart';
 import 'package:portfolio/config/theme.dart';
 import 'package:portfolio/constants/skills.dart';
+import 'package:portfolio/pages/proyectos.dart';
 
 class principalPage extends StatefulWidget {
   const principalPage({super.key});
@@ -75,9 +76,8 @@ class _principalPageState extends State<principalPage> {
                                       borderRadius: BorderRadius.circular(20)),
                                   backgroundColor: Colors.lightBlue[200]),
                               onPressed: () {
-                                indexNavbar = 1;
                                 setState(() {
-                                  
+                                  indexNavbar = 1;
                                 });
                               },
                               child: Text(
@@ -303,7 +303,9 @@ class _principalPageState extends State<principalPage> {
                           borderRadius: BorderRadius.circular(20)),
                       backgroundColor: Colors.lightBlue[200]),
                   onPressed: () {
-                    setState(() {});
+                    setState(() {
+                      indexNavbar = 1;
+                    });
                   },
                   child: Text(
                     "Ver Proyectos!",

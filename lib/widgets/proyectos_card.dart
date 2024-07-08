@@ -87,7 +87,7 @@ class ProyectoCard extends StatelessWidget {
                     children: [
                       const Text("Lenguajes:",
                           style: TextStyle(
-                              fontWeight: FontWeight.w500, fontSize: 12),
+                              fontWeight: FontWeight.w500, fontSize: 14),
                           textAlign: TextAlign.justify),
                       const Spacer(),
                       Wrap(

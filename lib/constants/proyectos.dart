@@ -2,7 +2,7 @@ List<Map> proyectosLista = [
   {
     "nombre": "Velocom App",
     "empresa": "Velocom",
-    "img": "velocom.png",
+    "img": "assets/velocom.png",
     "descripcion":"Aplicacion para el monitoreo y configuracion de dispositivos de red Huawei",
     "pagina": 0,
     "lenguajes": [
@@ -27,7 +27,7 @@ List<Map> proyectosLista = [
   {
     "nombre": "RedSun P.O.S",
     "empresa": "RedSun",
-    "img": "redsun.png",
+    "img": "assets/redsun.png",
     "descripcion":"Punto de venta multiplataforma para la Pyme RedSun",
     "pagina": 1,
     "lenguajes": [
@@ -39,10 +39,7 @@ List<Map> proyectosLista = [
         "img": "assets/dart_logo.png",
         "titulo": "Dart",
       },
-      {
-        "img": "assets/python.png",
-        "titulo": "Python",
-      },
+
       {
         "img": "assets/firebase.png",
         "titulo": "Firebase",
