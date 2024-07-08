@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+import 'package:portfolio/pages/home2.dart';
+
+void main() async {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData.dark(),
+      // routes: {"/": ((context) => const HomePagina())},
+      home: const HomePagina(),
+    );
+  }
+}

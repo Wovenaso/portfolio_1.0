@@ -1,0 +1,1 @@
+int indexNavbar = 0;
